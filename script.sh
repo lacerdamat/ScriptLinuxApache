@@ -26,7 +26,7 @@ unzip main.zip
 
 echo "Entrando na pasta para copiar..."
 
-cd site
+cd site-main
 
 echo "Copiando os arquivos..."
 
